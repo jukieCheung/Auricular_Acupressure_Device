@@ -1,3 +1,5 @@
 title: Auricular Acupressure Device (AAD)
 description: Targeted auricular acupressure with an automatic pressure unit and ear cover.
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
