@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 首页
+title: Auricular Acupressure Device (AAD)
 ---
 
 # Auricular Acupressure Device (AAD)
