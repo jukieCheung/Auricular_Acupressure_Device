@@ -3,3 +3,7 @@ description: Targeted auricular acupressure with an automatic pressure unit and 
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
+
+url: https://jukiecheung.github.io
+baseurl: /Auricular_Acupressure_Device
+
