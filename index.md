@@ -3,7 +3,7 @@ layout: default
 title: 首页
 ---
 
-# My Project
+# Auricular Acupressure Device (AAD)
 一句话介绍项目。
 
 ## 功能
