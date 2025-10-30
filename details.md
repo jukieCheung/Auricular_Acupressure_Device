@@ -11,12 +11,12 @@ title: Auricular Acupressure Device (AAD) – Full Instructions
 ---
 
 <div style="text-align:center;">
-  <img src="./assets/Fig1.jpg" alt="Fig. 1" width="200"/><br/>
+  <img src="./assets/Fig1.jpg" alt="Fig. 1" width="300"/><br/>
   <em>Fig. 1</em>
 </div>
 
 <div style="text-align:center;">
-  <img src="./assets/Fig2.jpg" alt="Fig. 2" width="200"/><br/>
+  <img src="./assets/Fig2.jpg" alt="Fig. 2" width="300"/><br/>
   <em>Fig. 2</em>
 </div>
 
