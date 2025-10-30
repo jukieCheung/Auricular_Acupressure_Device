@@ -6,6 +6,8 @@ title: 耳廓穴位點壓儀（Auricular Acupressure Device - AAD）使用說明
 # 耳廓穴位點壓儀（Auricular Acupressure Device - AAD）
 *使用說明書*
 
+**[簡短說明](./index_zh-hant.md)**
+
 ---
 
 <div style="text-align:center;">
