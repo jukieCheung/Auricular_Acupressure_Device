@@ -6,19 +6,28 @@ title: Auricular Acupressure Device (AAD) – Full Instructions
 # Auricular Acupressure Device (AAD)
 *Instruction for Use*
 
+
 ---
 
-![Fig. 1](/assets/Fig1.jpg)
-*Fig. 1*
+<div style="text-align:center;">
+  <img src="/assets/Fig1.jpg" alt="Fig. 1" width="400"/><br/>
+  <em>Figure 1</em>
+</div>
 
-![Fig. 2](/assets/Fig2.jpg)
-*Fig. 2*
+<div style="text-align:center;">
+  <img src="/assets/Fig2.jpg" alt="Fig. 2" width="400"/><br/>
+  <em>Figure 2</em>
+</div>
 
-![Fig. 3](/assets/Fig3.jpg)
-*Fig. 3*
+<div style="text-align:center;">
+  <img src="/assets/Fig3.jpg" alt="Fig. 3" width="400"/><br/>
+  <em>Figure 3</em>
+</div>
 
-![Fig. 4](/assets/Fig4.png)
-*Fig. 4*
+<div style="text-align:center;">
+  <img src="/assets/Fig4.png" alt="Fig. 4" width="400"/><br/>
+  <em>Fig. 4</em>
+</div>
 
 ---
 
@@ -65,11 +74,15 @@ If the battery is low while the device is operating and charging, the **magenta*
 ## Pressure Adjustment
 The acupressure intensity of the AAD can be adjusted using the Pressure Adjustment Knob (1). When the white indicating bar on the knob is in a horizontal position, the acupressure is set to the minimal level, as shown in Fig. 5. To increase the pressure, simply turn the Pressure Adjustment Knob clockwise, as illustrated in Fig. 6.
 
-![Fig. 5](/assets/Fig5.jpg)
-*Fig. 5*
+<div style="text-align:center;">
+  <img src="/assets/Fig5.jpg" alt="Fig. 5" width="400"/><br/>
+  <em>Fig. 5</em>
+</div>
 
-![Fig. 6](/assets/Fig6.png)
-*Fig. 6*
+<div style="text-align:center;">
+  <img src="/assets/Fig6.png" alt="Fig. 6" width="400"/><br/>
+  <em>Fig. 6</em>
+</div>
 
 
 ---
