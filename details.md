@@ -6,6 +6,7 @@ title: Auricular Acupressure Device (AAD) – Full Instructions
 # Auricular Acupressure Device (AAD)
 *Instruction for Use*
 
+**[Quick Guide](./index.md)**
 
 ---
 
