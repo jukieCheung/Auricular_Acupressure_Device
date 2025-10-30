@@ -11,7 +11,7 @@ title: Auricular Acupressure Device (AAD) – Full Instructions
 ![Fig. 1](/assets/Fig1.jpg)
 ![Fig. 2](/assets/Fig2.jpg)
 ![Fig. 3](/assets/Fig3.jpg)
-![Fig. 4](/assets/Fig4.jpg)
+![Fig. 4](/assets/Fig4.png)
 
 ---
 
