@@ -11,12 +11,12 @@ title: 耳廓穴位點壓儀（Auricular Acupressure Device - AAD）使用說明
 ---
 
 <div style="text-align:center;">
-  <img src="./assets/Fig1.jpg" alt="圖一" width="200"/><br/>
+  <img src="./assets/Fig1.jpg" alt="圖一" width="300"/><br/>
   <em>圖一</em>
 </div>
 
 <div style="text-align:center;">
-  <img src="./assets/Fig2.jpg" alt="圖二" width="200"/><br/>
+  <img src="./assets/Fig2.jpg" alt="圖二" width="300"/><br/>
   <em>圖二</em>
 </div>
 
