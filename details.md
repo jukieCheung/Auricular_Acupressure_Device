@@ -82,12 +82,12 @@ If the battery is low while the device is operating and charging, the <span styl
 The acupressure intensity of the AAD can be adjusted using the Pressure Adjustment Knob (1). When the white indicating bar on the knob is in a horizontal position, the acupressure is set to the minimal level, as shown in Fig. 5. To increase the pressure, simply turn the Pressure Adjustment Knob clockwise, as illustrated in Fig. 6.
 
 <div style="text-align:center;">
-  <img src="./assets/Fig5.jpg" alt="Fig. 5" width="400"/><br/>
+  <img src="./assets/Fig5.jpg" alt="Fig. 5" width="300"/><br/>
   <em>Fig. 5</em>
 </div>
 
 <div style="text-align:center;">
-  <img src="./assets/Fig6.png" alt="Fig. 6" width="400"/><br/>
+  <img src="./assets/Fig6.png" alt="Fig. 6" width="300"/><br/>
   <em>Fig. 6</em>
 </div>
 
