@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Auricular Acupressure Device (AAD) – Full Instructions
+title: Auricular Acupressure Device (AAD) Instructions
 ---
 
 # Auricular Acupressure Device (AAD)
