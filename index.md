@@ -6,7 +6,7 @@ title: Auricular Acupressure Device (AAD)
 # Auricular Acupressure Device (AAD)
 Wearable device for targeted auricular acupressure. Automatic pressure unit on one side and an ear cover on the other.
 
-[Getting Started](#getting-started) · [Donning & Doffing](#donning--doffing) · [Pressure](#pressure) · [Power & LEDs](#power--leds) · [Battery Isolation](#battery-isolation) · [Charging](#charging) · [FAQ](#faq) · **[Full Instructions](./details.md)**
+[Getting Started](#getting-started) · [Donning & Doffing](#donning--doffing) · [Pressure](#pressure) · [Power & LEDs](#power--leds) · [Battery Isolation](#battery-isolation) · [Charging](#charging) · [FAQ](#faq) · **[繁體中文說明](./index_zh-hant.md)** · **[Full Instructions](./details.md)** 
 
 ## Getting Started
 1. Set the pressure knob’s white marker to **horizontal (minimum)**.
