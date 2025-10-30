@@ -98,15 +98,16 @@ The acupressure intensity of the AAD can be adjusted using the Pressure Adjustme
 ## Battery Shutoff
 The Battery Shutoff Button (3) enables the operator to completely disconnect the battery and electrical power from the AAD.  
 When the Battery Shutoff Button (3) is pressed, the battery is isolated from the device, ensuring no electrical power is supplied.  
-If a USB-C power source is connected while the Battery Shutoff Button is pressed, the Power Indicator will display a green light with a red shadow, indicating that the battery is isolated.  
+If a USB-C power source is connected while the Battery Shutoff Button is pressed, the Power Indicator will display a <span style="color:green; font-weight:bold;">green</span> light with a <span style="color:red; font-weight:bold;">red</span> shadow, indicating that the battery is isolated.  
 Normally, it is not necessary to test this function, as the user can visually confirm that the button has been pressed.  
-If the Power Indicator flashes blue, red, or magenta while the Battery Shutoff Button is depressed, this means the power is on, but the battery is disconnected, and the device will not operate.  
+If the Power Indicator flashes <span style="color:blue; font-weight:bold;">blue</span>, <span style="color:red; font-weight:bold;">red</span>, or <span style="color:magenta; font-weight:bold;">magenta</span> while the Battery Shutoff Button is depressed, this means the power is on, but the battery is disconnected, and the device will not operate.  
 If the Battery Shutoff Button cannot be pressed, it may indicate that battery replacement is required.
 
 ---
 
 ## Charging the AAD
-Connect the USB-C input port (6) to a charger or suitable power source using a USB charging cable. The Battery Light will display red while charging and will turn green when the device is fully charged.
+Connect the USB-C input port (6) to a charger or suitable power source using a USB charging cable.  
+The Battery Light will display <span style="color:red; font-weight:bold;">red</span> while charging and will turn <span style="color:green; font-weight:bold;">green</span> when the device is fully charged.
 
 ---
 
