@@ -83,12 +83,12 @@ title: 耳廓穴位點壓儀（Auricular Acupressure Device - AAD）使用說明
 如需增加壓力，可順時針旋轉壓力調控旋鈕（如圖六）。
 
 <div style="text-align:center;">
-  <img src="./assets/Fig5.jpg" alt="圖五" width="300"/><br/>
+  <img src="./assets/Fig5.jpg" alt="圖五" width="250"/><br/>
   <em>圖五</em>
 </div>
 
 <div style="text-align:center;">
-  <img src="./assets/Fig6.png" alt="圖六" width="300"/><br/>
+  <img src="./assets/Fig6.png" alt="圖六" width="250"/><br/>
   <em>圖六</em>
 </div>
 
