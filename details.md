@@ -61,13 +61,20 @@ The device can operate using its built-in battery or by connecting an external p
 ---
 
 ## Battery Light (Power Indicator)
-When the AAD is operating on its built-in battery, the Battery Light (Power Indicator) (2) will show a solid blue color.  
-If the blue light starts flashing after the AAD is turned on, it means the battery needs to be charged. To recharge the battery, connect an external power source to the USB-C input port. If the battery level becomes extremely low, the blue Power Indicator may turn off, and the AAD may stop functioning at any time. If the blue light flashes after switching on the AAD, please stop using the device and charge the battery.
 
-When the device is connected to an external power source via the USB-C connector and powered off, the Power Indicator will be **red** to indicate charging, and **green** when the battery is fully charged. Please disconnect the USB-C power source when the green light is on.  
-If the device is operating while connected to the USB-C power source and charging, the Power Indicator will display in **magenta**.  
-When the AAD is in use and connected to USB-C power with a fully charged battery, the Power Indicator will show **cyan**.  
-If the battery is low while the device is operating and charging, the **magenta** Power Indicator will flash.
+When the AAD is operating on its built-in battery, the Battery Light (Power Indicator) (2) will show a solid <span style="color:blue; font-weight:bold;">blue</span> color.  
+If the <span style="color:blue; font-weight:bold;">blue</span> light starts flashing after the AAD is turned on, it means the battery needs to be charged.  
+To recharge the battery, connect an external power source to the USB-C input port.  
+If the battery level becomes extremely low, the <span style="color:blue; font-weight:bold;">blue</span> Power Indicator may turn off, and the AAD may stop functioning at any time.  
+If the <span style="color:blue; font-weight:bold;">blue</span> light flashes after switching on the AAD, please stop using the device and charge the battery.
+
+When the device is connected to an external power source via the USB-C connector and powered off, the Power Indicator will be <span style="color:red; font-weight:bold;">red</span> to indicate charging, and <span style="color:green; font-weight:bold;">green</span> when the battery is fully charged.  
+Please disconnect the USB-C power source when the <span style="color:green; font-weight:bold;">green</span> light is on.  
+
+If the device is operating while connected to the USB-C power source and charging, the Power Indicator will display in <span style="color:magenta; font-weight:bold;">magenta</span>.  
+When the AAD is in use and connected to USB-C power with a fully charged battery, the Power Indicator will show <span style="color:cyan; font-weight:bold;">cyan</span>.  
+If the battery is low while the device is operating and charging, the <span style="color:magenta; font-weight:bold;">magenta</span> Power Indicator will flash.
+
 
 ---
 
