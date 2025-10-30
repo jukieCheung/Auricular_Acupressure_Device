@@ -9,9 +9,16 @@ title: Auricular Acupressure Device (AAD) – Full Instructions
 ---
 
 ![Fig. 1](/assets/Fig1.jpg)
+*Fig. 1*
+
 ![Fig. 2](/assets/Fig2.jpg)
+*Fig. 2*
+
 ![Fig. 3](/assets/Fig3.jpg)
+*Fig. 3*
+
 ![Fig. 4](/assets/Fig4.png)
+*Fig. 4*
 
 ---
 
@@ -56,10 +63,14 @@ If the battery is low while the device is operating and charging, the **magenta*
 ---
 
 ## Pressure Adjustment
-The acupressure intensity of the AAD can be adjusted using the Pressure Adjustment Knob (1). When the white indicating bar on the knob is in a horizontal position, the acupressure is set to the minimal level, as shown in Figure 5. To increase the pressure, simply turn the Pressure Adjustment Knob clockwise, as illustrated in Figure 6.
+The acupressure intensity of the AAD can be adjusted using the Pressure Adjustment Knob (1). When the white indicating bar on the knob is in a horizontal position, the acupressure is set to the minimal level, as shown in Fig. 5. To increase the pressure, simply turn the Pressure Adjustment Knob clockwise, as illustrated in Fig. 6.
 
 ![Fig. 5](/assets/Fig5.jpg)
+*Fig. 5*
+
 ![Fig. 6](/assets/Fig6.png)
+*Fig. 6*
+
 
 ---
 
