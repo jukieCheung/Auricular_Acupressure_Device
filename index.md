@@ -21,19 +21,20 @@ Wearable device for targeted auricular acupressure. Automatic pressure unit on o
 - Horizontal = **minimum**. Turn clockwise to **increase**. Start low and ramp up gradually.
 
 ## Power & LEDs
-- On battery while operating: **blue solid**; **blue blinking** = low battery.  
-- USB-C plugged while off: **red** = charging; **green** = full.  
-- Use while charging: **magenta**; full & charging: **cyan**; low & charging: **magenta blinking**.
+- On battery while operating: <span style="color:blue; font-weight:bold;">blue solid</span>; <span style="color:blue; font-weight:bold;">blue blinking</span> = low battery.  
+- USB-C plugged while off: <span style="color:red; font-weight:bold;">red</span> = charging; <span style="color:green; font-weight:bold;">green</span> = full.  
+- Use while charging: <span style="color:magenta; font-weight:bold;">magenta</span>; full & charging: <span style="color:cyan; font-weight:bold;">cyan</span>; low & charging: <span style="color:magenta; font-weight:bold;">magenta blinking</span>.
 
 ## Battery Isolation
-- Isolation key disconnects the battery. With USB-C: **green with red hue** indicates isolation.  
+- Isolation key disconnects the battery. With USB-C: <span style="color:green; font-weight:bold;">green</span> with <span style="color:red; font-weight:bold;">red</span> hue indicates isolation.  
 - If isolation is pressed, device won’t run even if some lights blink. If it won’t press, the battery may need replacement.
 
 ## Charging
-- Charge via **USB-C**. Red → charging; Green → full.
+- Charge via **USB-C**. <span style="color:red; font-weight:bold;">Red</span> → charging; <span style="color:green; font-weight:bold;">Green</span> → full.
 
 ## FAQ
 - Shuts off quickly: charge first.  
 - Discomfort at first use: start at **minimum**.  
 - No operation: check **isolation key** or battery status.
+
 
