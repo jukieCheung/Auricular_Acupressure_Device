@@ -6,7 +6,7 @@ title: 耳廓穴位點壓儀（AAD）使用說明
 # 耳廓穴位點壓儀（AAD）
 *使用說明書*
 
-**[簡短說明](./index_zh-hant.md)** · **[PDF](./assets/Full_AAD_Manual_Chinese.pdf)** 
+**[簡短說明](./index_zh-hant.md)** · **[PDF](./assets/Full_AAD_Manual_Both.pdf)** 
 
 ---
 
